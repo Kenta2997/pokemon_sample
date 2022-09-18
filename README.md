@@ -1,6 +1,7 @@
 # pokemon_sample
 
-A new Flutter project.
+https://zenn.dev/sugitlab/books/flutter_poke_app_handson
+これをやっていく
 
 ## Getting Started
 
